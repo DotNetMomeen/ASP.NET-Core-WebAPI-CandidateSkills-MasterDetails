@@ -1,0 +1,6 @@
+@MVC_API_Core_MasterDetails_HostAddress = http://localhost:5092
+
+GET {{MVC_API_Core_MasterDetails_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

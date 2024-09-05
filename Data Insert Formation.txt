@@ -1,0 +1,65 @@
+
+URL:
+
+for GET : (Show)
+http://localhost:5056/api/Candidates
+
+for POST : (Insert)
+http://localhost:5056/api/Candidates
+
+for POST : (Edit)
+http://localhost:5056/api/Candidates/Update
+
+for POST : (Delete)
+http://localhost:5056/api/Candidates/Delete/1
+
+--------------------------------------------------------------
+skillsStringify:
+
+[
+      {
+        "skillId": 2
+      },
+      {
+        "skillId": 3
+      }
+]
+--------------------------------------------------------------
+
+skillList: null
+
+--------------------------------------------------------------
+
+Insert Data:
+
+[
+    {
+        "candidateId": 1,
+        "candidateName": "Momeen Hossain Rony",
+        "dateOfBirth": "10-10-2010",
+        "phone": "0151535241",
+        "image": "01.jpg",
+        "imagePath": null,
+        "fresher": true,
+        "skillsStringify": null,
+        "skillList": [
+            {
+                "skillId": 1,
+                "skillName": "Angular",
+                "skillCandidates": []
+            },
+            {
+                "skillId": 2,
+                "skillName": "React",
+                "skillCandidates": []
+            },
+            {
+                "skillId": 3,
+                "skillName": "HTML",
+                "skillCandidates": []
+            }
+        ]
+    }
+]
+--------------------------------------------------------------
+

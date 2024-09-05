@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Z/jLtlnX9dJVUdd0J09ESgULgY5HnOds0tnnMtXifHg=",
+  "Source": "MVC_API_Core_MasterDetails",
+  "BasePath": "_content/MVC_API_Core_MasterDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_API_Core_MasterDetails\\wwwroot",
+      "Source": "MVC_API_Core_MasterDetails",
+      "ContentRoot": "C:\\Users\\Hr Momeen Ahmed\\Desktop\\New folder (3)\\MVC_API_Core_MasterDetailsSolution\\MVC_API_Core_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/MVC_API_Core_MasterDetails",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
